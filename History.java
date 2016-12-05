@@ -6,7 +6,7 @@ public class History{
 	
 	public static void main(String[] args){
 		
-		String familyAllowances = "Family Allowances Act";
+		String familyAllowances = "Family Allowances";
 		String NHS = "NHS introduces free health care";
 		String thePill = "The Pill is dispensed";
 		String acts = "Abortion Act and Family Planning Act";
@@ -29,9 +29,9 @@ public class History{
 				
 				if(input == 1945){
 					
-					System.out.println("Correct!");
+					System.out.println("Correct!\n");
 					
-				}else{System.out.println("Incorrect");}
+				}else{System.out.println("Incorrect\n");}
 			}
 			
 			if(value == 1){
@@ -42,9 +42,9 @@ public class History{
 				
 				if(input == 1948){
 					
-					System.out.println("Correct!");
+					System.out.println("Correct!\n");
 					
-				}else{System.out.println("Incorrect");}
+				}else{System.out.println("Incorrect\n");}
 			}
 			
 			if(value == 2){
@@ -55,9 +55,9 @@ public class History{
 				
 				if(input == 1962){
 					
-					System.out.println("Correct!");
+					System.out.println("Correct!\n");
 					
-				}else{System.out.println("Incorrect");}
+				}else{System.out.println("Incorrect\n");}
 			}
 			
 			if(value == 3){
@@ -68,9 +68,9 @@ public class History{
 				
 				if(input == 1967){
 					
-					System.out.println("Correct!");
+					System.out.println("Correct!\n");
 					
-				}else{System.out.println("Incorrect");}
+				}else{System.out.println("Incorrect\n");}
 			}
 			
 			if(value == 4){
@@ -81,9 +81,9 @@ public class History{
 				
 				if(input == 1969){
 					
-					System.out.println("Correct!");
+					System.out.println("Correct!\n");
 					
-				}else{System.out.println("Incorrect");}
+				}else{System.out.println("Incorrect\n");}
 			}
 			
 			if(value == 5){
@@ -94,9 +94,9 @@ public class History{
 				
 				if(input == 1970){
 					
-					System.out.println("Correct!");
+					System.out.println("Correct!\n");
 					
-				}else{System.out.println("Incorrect");}
+				}else{System.out.println("Incorrect\n");}
 			}
 			
 			if(value == 6){
@@ -107,9 +107,9 @@ public class History{
 				
 				if(input == 1975){
 					
-					System.out.println("Correct!");
+					System.out.println("Correct!\n");
 					
-				}else{System.out.println("Incorrect");}
+				}else{System.out.println("Incorrect\n");}
 			}
 		}
 	}
